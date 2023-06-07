@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666995056 source:c:\users\msi\documents\unla3\redes y comunicaciones\tp\server\main.cpp
+	<iostream>
+	<winsock2.h>
+	<math.h>
+	<ctime>
+	<fstream>
+	<string>
+
